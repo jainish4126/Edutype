@@ -41,9 +41,9 @@ const Contact = () => {
         <h3>Send us a message <img src={msg_icon} alt="" /></h3>
         <p>Feel free to reach out through contact form or find our concat information below. your feedback, question, and suggestions are important to us as we strive to provide exceptional service to our university community</p>
         <ul>
-            <li> <img src={mail_icon} alt="" /> contact@edusity.com</li>
+            <li> <img src={mail_icon} alt="" /> contact@edutype.com</li>
             <li> <img src={phone_icon} alt="" /> +91 5152165541</li>
-            <li> <img src={location_icon} alt="" /> Edusity University, 221 Innovation Drive, Sector 12, Knowledge Park, Ahmedabad, Gujarat – 382421, India</li>
+            <li> <img src={location_icon} alt="" /> Edutype University, 221 Innovation Drive, Sector 12, Knowledge Park, Ahmedabad, Gujarat – 382421, India</li>
         </ul>
       </div>
       <div className="contact-col">
